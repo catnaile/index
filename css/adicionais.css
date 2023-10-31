@@ -1,0 +1,41 @@
+
+	nav {
+		background-color: #87a878;
+		border-bottom-color: #344e41;
+		border-radius: 3px;
+	}
+	
+	#conteudoNavbarSuportado ul li a:hover {
+		text-decoration: underline;
+	}
+	
+	main a {
+		text-decoration: none;
+		color: #181a19;
+	}
+	
+	main a:hover {
+		text-decoration: none;
+		color: #181a19;
+	}
+	
+	.card-body {
+		background-color: #f8f9fa;
+		border-color: #daddd8;
+	}
+	
+	#colunas ul li {
+		list-style-image: url("../imagens/pata.png");
+	}
+	
+	#colunas ul li a {
+		color: #f6fff8;
+	}
+	
+	footer {
+		background-color: #87a878;
+	}
+	
+	h5 {
+		font-weight: bold;
+	}
